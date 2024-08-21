@@ -1,4 +1,4 @@
-# Deep Learning Crop Mapping using Sentinel-2 Time Series Imagery
+# Deep Learning based Crop Segmentation using Sentinel-2 Time Series Imagery
 <p align="center">
   <img src="https://github.com/akhilchibber/Timeseries-Crop-Mapping/blob/main/Crop-Mapping.png?raw=true" alt="earthml Logo">
 </p>
