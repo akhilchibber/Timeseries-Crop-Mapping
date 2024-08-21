@@ -1,6 +1,6 @@
 # Deep Learning Crop Mapping using Sentinel-2 Time Series Imagery
 <p align="center">
-  <img src="https://github.com/akhilchibber/Timeseries-Crop-Mapping/blob/main/Untitled%20design%20(4).mp4?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Timeseries-Crop-Mapping/blob/main/Crop-Mapping.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
